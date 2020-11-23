@@ -25,7 +25,7 @@
 //	Input:         Integer
 //	Output:        None
 //	Description:   It is used to display even factors of given number.
-//	Date:          31 July 2020
+//	Date:          31st July 2020
 //	Author Name:   Shubham Mukundrao Deshmukh
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
