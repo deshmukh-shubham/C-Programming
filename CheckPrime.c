@@ -26,7 +26,7 @@ typedef int BOOLEAN;
 //	Input:          Integer
 //	Output:	        None
 //	Description:	It is used to display given number is prime or not.
-//	Date:	        29 July 2020
+//	Date:	        29th July 2020
 //	Author Name:    Shubham Mukundrao Deshmukh
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -79,6 +79,6 @@ int main()								//Entry Point Funcntion
 		printf("Given number is not a prime number");
 	}
 	
-	return 0;							// Termination successfully
+	return 0;							// Termination successfullyg
 }
 
