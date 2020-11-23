@@ -32,11 +32,11 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //	Function name:	MultFact
-//	Input:				  Integer
-//	Output:				  Integer
-//	Description:		It is used to perform the multiplication of factors of the number.
-//	Date:				    31 July 2020
-//	Author Name:		Shubham Mukundrao Deshmukh
+//	Input:	        Integer
+//	Output:	        Integer
+//	Description:	It is used to perform the multiplication of factors of the number.
+//	Date:	        31 July 2020
+//	Author Name:	Shubham Mukundrao Deshmukh
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
