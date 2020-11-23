@@ -46,6 +46,7 @@ typedef int BOOL;
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
+/*
 BOOL ChkZero(int iNo)
 {
 	int iDigit=0;
@@ -55,12 +56,37 @@ BOOL ChkZero(int iNo)
 		iDigit = iNo%10;
 		if(iDigit==0)
 		{
-			return TRUE;		
+			return TRUE;	//<- This step is wrong "Do not use return in any loop".	
 		}
 		
 		iNo = iNo/10;
 	}
 	return FALSE;
+}
+*/
+
+//Never put return statement in loop as it is a technically bad habbit it will stop execution of program by machine.
+	
+BOOL CheckZero(int iNo)
+{
+	while(iNo!=0)
+	{
+		iDigit = iNo%10;
+		if(iDigit==0)
+		{
+			break;
+		}
+		iNo=iNo/10;
+	}
+		
+	if(iDigit==0)
+	{
+		return TRUE;
+	}
+	else
+	{
+		return FALSE;
+	}
 }
 
 int main()
