@@ -23,11 +23,11 @@ typedef int BOOLEAN;
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //	Function name:	Prime
-//	Input:				  Integer
-//	Output:				  None
-//	Description:		It is used to display given number is prime or not.
-//	Date:				    29 July 2020
-//	Author Name:		Shubham Mukundrao Deshmukh
+//	Input:          Integer
+//	Output:	        None
+//	Description:	It is used to display given number is prime or not.
+//	Date:	        29 July 2020
+//	Author Name:    Shubham Mukundrao Deshmukh
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
