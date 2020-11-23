@@ -24,11 +24,11 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //	Function name: 	PrintEven
-//	Input: 			    Integer
-//	Output: 		    None
-//	Description: 	  It it used to display even numbers of given number.
-//	Date: 			    31 July 2020
-//	Author Name: 	  Shubham Mukundrao Deshmukh
+//	Input: 	        Integer
+//	Output:         None
+//	Description:    It it used to display even numbers of given number.
+//	Date: 	        31 July 2020
+//	Author Name:    Shubham Mukundrao Deshmukh
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
